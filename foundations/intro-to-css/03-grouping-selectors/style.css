@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+.firstColor{
+    background-color: black;
+    color: white;
+}
+
+.secondColor{
+    background-color: yellow;
+}
+
+.box{
+    font-size: 28px;
+    font-family: Helvetica, "Time New Roman", sans-serif;
+    
+}
